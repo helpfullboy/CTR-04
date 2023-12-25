@@ -1,0 +1,57 @@
+HTML
+
+Q.
+
+1. What is markUp language?
+   MarkUp language basically does not catch errors.
+   example: HTML
+
+2. What is markDown language?
+   exampale: (use github) README.MD
+
+3. What is extantion?
+   Exampale: anddoid = .apk
+	     windows = .exe
+	     HTML    = .html
+
+4. HTML vertion & details.
+
+5. HTML tag/element Use of tags. like sub, sup, em, i, img, p, a, texterea, video, article, audio, table, tr, td, ol, li, ul, Etc. 
+
+6. Use to write code visual studio code, subline text, node pad, Etc.
+
+7. install some necessary extensions for visual studio code.
+	1. Live server
+
+8. Tips & trick
+	1. If any written content is too big. if it takes up a lot of space in one line,
+	   then word wrap shouid be done from the view.
+	2. To make a boiler plate (! press enter) to create.
+
+9. What is Semantic tag/element ?
+
+10.Defference between <b> tag and <stong> tag?
+   Defference between <i> tag and <em> tag?
+   Difference between a Block element and inline element.
+   How are tags nested?
+
+11.Use of attribute and valu. like src="link", alt="text", href="", targrt="-blank" controls, Etc.
+	[singel attribute controls] 
+
+12.How to select path.
+   How to add a favicon in HTML
+
+13.Do this work(image, Name, Description, fblink, skill[the list will be in roman numerals])
+
+14. Creact tabel 
+
+15.Do this work(1.add video with and hight use contropanel, 2.add audio tag, 3.add video with youtube link.) 
+
+Note:By learning the basics of JavaScript we can startworking with React.
+     variable, function, loop, array, object, dom, es6, if else , switch case, map, for loop, for each, filter, slice, Etc.
+
+
+   
+
+
+	
